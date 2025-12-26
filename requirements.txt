@@ -1,0 +1,17 @@
+pandas
+seaborn
+ibis-framework[duckdb]
+nbval
+copernicusmarine
+xarray
+netCDF4
+numpy
+python-dateutil
+matplotlib
+shapely
+geopandas
+plotnine
+IPython
+rioxarray
+earthaccess
+h5netcdf

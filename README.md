@@ -1,8 +1,6 @@
-# Final Project
+# SEE ICE? TRENDS IN ARCTIC SURFACE AIR TEMPERATURE, SEA TEMPERATURE, AND ICE COVERAGE IN RELATION TO GLOBAL WARMING
 
-[![Reproducibility Check](https://github.com/espm-157/final-group-ashley-erin-final/actions/workflows/main.yml/badge.svg)](https://https://github.com/espm-157/final-group-ashley-erin-final/actions/workflows/main.yml)
-
-## Team Members
+## Contributors:
 
 🌊 Ashley Nguyen
 🧊 Erin Dominguez

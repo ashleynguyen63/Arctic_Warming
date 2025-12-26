@@ -1,4 +1,4 @@
-# SEE ICE? TRENDS IN ARCTIC SURFACE AIR TEMPERATURE, SEA TEMPERATURE, AND ICE COVERAGE IN RELATION TO GLOBAL WARMING
+# See Ice? Trends in Arctic Surface Air Temperature, Sea Temperature, and Ice Coverage in Relation to Global Warming
 
 ## Contributors:
 
